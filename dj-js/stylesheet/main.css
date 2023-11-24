@@ -1,0 +1,23 @@
+h1 {
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2, h3 {
+    color: green;
+    text-align: center;
+    font-size: 20px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: black; 
+}
