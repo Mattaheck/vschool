@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+
+.square1 {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: aliceblue;
+}
+
+.square1:hover {
+    background-color: blueviolet;
+}
+
+.square2 {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: antiquewhite;
+}
+
+.square2:hover {
+    opacity: .10;
+}
+
+.square3 {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: aqua;
+}
+
+.square3:hover {
+    position: fixed;
+}
+
+.square4 {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: aquamarine;
+}
+
+.square4:hover {
+    height: 150px;
+}
+.square5 {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: beige;
+}
+
+.square5:hover {
+    border: 2px solid #2980b9;
+}
+
+.square6 {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: blanchedalmond;
+}
+
+.square6:hover {
+    background-color: brown;
+}
